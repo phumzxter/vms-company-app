@@ -3,7 +3,7 @@
 ### By Phumin Abdul Hameed, 6135117
 
 ## Project Description
-This project is a company app, YOu can creat, read, update and delete entries. It is mainly used in companies where huge stock or quantities have to be maintained.
+This project is a company app, You can create, update and delete entries. It is mainly used in companies where huge stock or quantities have to be maintained.
 
 ## Tech Stack & Deployment
 > MERN (Mongo, Express, React and Node.js) & Heroku
